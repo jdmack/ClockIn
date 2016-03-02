@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clock In</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="action_settings">Settings</string>
+    <string name="saved_clock_in_time">com.lazyenigma.clockin.PREFERENCE_SAVED_CLOCKED_IN_TIME</string>
+</resources>
